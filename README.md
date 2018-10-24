@@ -12,3 +12,11 @@ Instructions:
   <img src="https://i.imgur.com/GfozTlD.jpg">
 </p>
 7) Great Success!
+<br/>
+<br/>
+Notes: The buttons appears to trigger resets of the microcontroller, they may be tied to some kind of interrupt, I'm not sure I haven't looked to deeply into it. If you have issues with gibberish on the console try holding one of the buttons, that seems to help in some cases.
+<br/>
+<br/>
+Useful Links: 
+Use this site to convert an image into a 1 bit color graphic: https://29a.ch/ditherlicious/
+USe this site to convert a graphic into a byte array: https://littlevgl.com/image-to-c-array
