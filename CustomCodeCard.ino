@@ -1,5 +1,5 @@
 /*
- * Basic Demo of custom code running on the 2018 Oracle Code Card, press either button to cycel screen. 
+ * Basic Demo of custom code running on the 2018 Oracle Code Card
  * To create a byte array for use here it must be a 264x176, 1 bit, vertically scanned image from left-to-right
  * Process to get an image into a byte array:
  * Use GIMP to Scale to 264x176 
